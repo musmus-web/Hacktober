@@ -1,1 +1,1 @@
-# Hacktober
+# Hacktober adalah hal yang menyenangkan
